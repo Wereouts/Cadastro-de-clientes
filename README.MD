@@ -1,0 +1,1 @@
+Olá, fiz esse pequeno projeto de cadastro de clientes e busca de clientes em python, espero que gostem e possa servir de inspiração.
